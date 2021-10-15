@@ -3,10 +3,6 @@
 
 """
  Name : Vaishnavi Madhekar
- Roll No: 3429
- Div : B
- C No : C22018221438
-
  Problem statement : Apriori algorithm
 """
 
